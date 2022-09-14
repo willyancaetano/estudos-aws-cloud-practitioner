@@ -1,4 +1,3 @@
-
 # Introdução a Cloud - Questões
 
  1. Defina o que é Cloud Computing
