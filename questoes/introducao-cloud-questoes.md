@@ -1,4 +1,7 @@
+
 # Introdução a Cloud - Questões
+
+[Ver respostas](introducao-cloud-respostas.md)
 
  1. Defina o que é Cloud Computing
 
@@ -97,3 +100,5 @@
 
  19. Qual modelo de implantação representa o trecho abaixo?
 > "...é totalmente implantada na nuvem e todos os aspectos da aplicação são executados nela..."
+
+[Ver respostas](introducao-cloud-respostas.md)
